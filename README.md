@@ -28,8 +28,7 @@ I have used several techniques to build this Excel project management dashboard:
 
 📸 Dashboard Preview <br>
 Managing projects effectively requires clear insights. Below is a snapshot of the dashboard’s visual representation of progress and key milestones:
-![Screenshot (680)](https://github.com/user-attachments/assets/22f04aa1-ccfc-4b61-8715-1eb788b78927)
-
+![Project Management Dashboard](https://github.com/user-attachments/assets/f1315122-76e3-4c92-a45a-1a2da6c92b5d)
 
 🛠️ How to Use <br>
 Download & Open Project_Management.xlsx. <br>
